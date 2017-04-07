@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 8072-EB1B
+
+ Directory of D:\django\scraper\testscraper
+
+04/07/2017  10:37 PM    <DIR>          .
+04/07/2017  10:37 PM    <DIR>          ..
+04/07/2017  10:37 PM                 0 listing.txt
+04/07/2017  10:37 PM                71 README.md
+               2 File(s)             71 bytes
+               2 Dir(s)  14,076,133,376 bytes free
